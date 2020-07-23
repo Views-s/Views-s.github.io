@@ -1,5 +1,5 @@
 ---
-bg: "lighthouse.jpg"
+bg: "clock.jpeg "
 layout: page
 title: "about"
 crawlertitle: "一个赛博流浪者的存放地"
