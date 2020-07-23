@@ -2,9 +2,9 @@
 bg: "owl.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "一个赛博流浪者的存放地"
 permalink: /about/
-summary: "About this blog"
+summary: "脑洞有如球之深坑"
 active: about
 ---
 
