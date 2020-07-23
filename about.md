@@ -1,19 +1,15 @@
 ---
 bg: "owl.jpg"
 layout: page
-title: "About"
+title: "about"
 crawlertitle: "一个赛博流浪者的存放地"
 permalink: /about/
 summary: "脑洞有如球之深坑"
-active: about
+active: 关于本博
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+我们永远不知道我们将流浪于何方
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+能走一刻是一刻
+能写一点是一点
+记录是流浪者的诗篇
