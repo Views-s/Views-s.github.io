@@ -1,5 +1,5 @@
 ---
-bg: " Views-s.github.io/code/img/1.png "
+bg: "lighthouse.jpg"
 layout: page
 title: "about"
 crawlertitle: "一个赛博流浪者的存放地"
